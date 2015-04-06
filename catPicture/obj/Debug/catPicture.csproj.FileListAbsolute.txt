@@ -1,0 +1,11 @@
+E:\XXIU\catPicture\catPicture\obj\Debug\ResolveAssemblyReference.cache
+E:\XXIU\catPicture\catPicture\obj\Debug\catPicture.Form1.resources
+E:\XXIU\catPicture\catPicture\obj\Debug\catPicture.Properties.Resources.resources
+E:\XXIU\catPicture\catPicture\obj\Debug\catPicture.csproj.GenerateResource.Cache
+E:\XXIU\catPicture\catPicture\obj\Debug\catPicture.Cat.resources
+E:\XXIU\catPicture\catPicture\obj\Debug\catPicture.PointShow.resources
+E:\XXIU\catPicture\catPicture\obj\Debug\catPicture.about.resources
+E:\XXIU\catPicture\catPicture\bin\Debug\修修截图程序.exe
+E:\XXIU\catPicture\catPicture\bin\Debug\修修截图程序.pdb
+E:\XXIU\catPicture\catPicture\obj\Debug\修修截图程序.exe
+E:\XXIU\catPicture\catPicture\obj\Debug\修修截图程序.pdb
